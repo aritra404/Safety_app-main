@@ -88,7 +88,7 @@ SafeGuard uses the **CometChat UI Kit** to enable real-time communication with g
   <img src="https://github.com/user-attachments/assets/ee25e5e1-1f77-42d5-b94f-da8bf45dc684" width="250" />
   <img src="https://github.com/user-attachments/assets/57baa237-09b7-4c68-848b-cc81a7b92937" width="250" />
   <img src="https://github.com/user-attachments/assets/2d44bfa5-03e4-4425-ac3b-1be88b4d40cc" width="250" />
-  <img src="https://github.com/user-attachments/assets/4d54072e-bf5d-4fdb-85bd-5cab3bc354e6" width="250" />
+<img src="https://github.com/user-attachments/assets/ea2e8d32-a3fa-4231-8f39-4da3b45fa554" width="250" />
 </p>
 
 
