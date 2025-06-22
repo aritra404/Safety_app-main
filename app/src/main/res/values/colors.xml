@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_tertiary">#9E9E9E</color>         <!-- Light gray for hints -->
+
+    <!-- Status Colors -->
+    <color name="status_active">#4CAF50</color>         <!-- Green for active status -->
+    <color name="status_inactive">#F44336</color>       <!-- Red for inactive status -->
+    <color name="status_warning">#FF9800</color>        <!-- Orange for warning status -->
+
+
+    <!-- Other UI Elements -->
+    <color name="divider_color">#EEEEEE</color>         <!-- Light gray dividers -->
+    <color name="ripple_color">#33000000</color>        <!-- Translucent black for ripple effects -->
+
+    <color name="black">#000000</color>                 <!-- Pure black -->
+
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="background_color">#111827</color>
+    <color name="primary_color">#3A0CA3</color>
+    <color name="card_background">#1f2937</color>
+    <color name="sos_button_color">#dc2626</color>
+    <color name="accent_color">#7B28B5</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#BBBBBB</color>
+    <color name="switch_thumb_color">#FFFFFF</color>
+    <color name="switch_track_color">#555555</color>
+    <color name="secondary_color">#00BCD4</color>
+    <color name="tool_icon_color">#BBBBBB</color>
+    <color name="bottom_nav_item_color">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="header_background_color">#1f2937</color>
+</resources>

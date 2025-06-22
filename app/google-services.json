@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629962872491",
+    "project_id": "safetyapp-75b1a",
+    "storage_bucket": "safetyapp-75b1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629962872491:android:edc5415f12b74c5022c9ee",
+        "android_client_info": {
+          "package_name": "aritra.seal.finalyearapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDowB3QITGRxoqJQIiIxGz08NQGYKxShWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

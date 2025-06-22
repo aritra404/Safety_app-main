@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_chats"
+        android:icon="@drawable/ic_chats"
+        android:title="Chats"/>
+    <item
+        android:id="@+id/nav_call_logs"
+        android:icon="@drawable/ic_calls"
+        android:title="Call Logs"/>
+    <item
+        android:id="@+id/nav_users"
+        android:icon="@drawable/ic_user"
+        android:title="Users"/>
+    <item
+        android:id="@+id/nav_groups"
+        android:icon="@drawable/ic_group"
+        android:title="Groups"/>
+</menu>
