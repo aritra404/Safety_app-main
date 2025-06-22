@@ -6,7 +6,7 @@ SafetyApp is a smart Android safety app designed to provide fast, voice-triggere
 
 ## 📱 Project Overview
 
-SafeGuard ensures user safety through voice-activated emergency detection. When the user speaks a pre-set "safe word", the app performs the following actions:
+SafetyApp ensures user safety through voice-activated emergency detection. When the user speaks a pre-set "safe word", the app performs the following actions:
 
 - Records a 20-second audio clip
 - Uploads the clip securely to Firebase Storage
@@ -35,7 +35,7 @@ SafeGuard ensures user safety through voice-activated emergency detection. When 
 
 ## 💬 Chat Functionality (CometChat Integration)
 
-SafeGuard uses the **CometChat UI Kit** to enable real-time communication with guardians. This allows users to:
+SafetyApp uses the **CometChat UI Kit** to enable real-time communication with guardians. This allows users to:
 
 - Text guardians directly from the app
 - Send messages immediately after an alert
