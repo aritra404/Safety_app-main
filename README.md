@@ -82,9 +82,15 @@ SafeGuard uses the **CometChat UI Kit** to enable real-time communication with g
 ---
 
 ## 📷 Screenshots!
-[WhatsApp Image 2025-06-06 at 18 26 25_d4bf26a4-portrait](https://github.com/user-attachments/assets/31e1a10c-c3ac-4950-93a9-76df46e930ff)
-![b-portrait](https://github.com/user-attachments/assets/450c25e3-a3ab-4817-8296-eb94c6af5430)
-![c-portrait](https://github.com/user-attachments/assets/57baa237-09b7-4c68-848b-cc81a7b92937)
-![d-portrait](https://github.com/user-attachments/assets/2d44bfa5-03e4-4425-ac3b-1be88b4d40cc)
-![5](https://github.com/user-attachments/assets/4abe83db-6d82-4443-aa39-2ed7f8ea7142)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31e1a10c-c3ac-4950-93a9-76df46e930ff" width="250" />
+  <img src="https://github.com/user-attachments/assets/ee25e5e1-1f77-42d5-b94f-da8bf45dc684" width="250" />
+  <img src="https://github.com/user-attachments/assets/57baa237-09b7-4c68-848b-cc81a7b92937" width="250" />
+  <img src="https://github.com/user-attachments/assets/2d44bfa5-03e4-4425-ac3b-1be88b4d40cc" width="250" />
+  <img src="https://github.com/user-attachments/assets/4d54072e-bf5d-4fdb-85bd-5cab3bc354e6" width="250" />
+</p>
+
+
+
 
